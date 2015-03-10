@@ -6,3 +6,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 add branch dev
 add /usr/bin/env
+add tag
